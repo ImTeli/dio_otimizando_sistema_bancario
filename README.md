@@ -1,7 +1,7 @@
 # DIO - Desafio: Sistema Bancário
 ## Segundo desafio da trilha do curso de Python AI Backend Developer na plataforma DIO.
 
-Para a execução do desafio foram utilizados apenas os conteúdos vistos até o momento no curso, foi realizada a modularização do cógido e existem melhorias em relação a primeira versão, porém ainda existem limitações.
+Para a execução do desafio foram utilizados apenas os conteúdos vistos até o momento no curso, foi realizada a modularização do cógdigo e existem melhorias em relação a primeira versão, porém ainda existem limitações.
 
 
 [![GitHub License](https://img.shields.io/github/license/ImTeli/trilha_python_dio_desafio_sistema_bancario)](https://github.com/ImTeli/trilha_python_dio_desafio_sistema_bancario/blob/main/LICENSE)
