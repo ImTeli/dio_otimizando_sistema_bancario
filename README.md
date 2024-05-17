@@ -3,6 +3,7 @@
 
 Para a execução do desafio foram utilizados apenas os conteúdos vistos até o momento no curso, foi realizada a modularização do código e existem melhorias em relação a primeira versão, porém ainda existem limitações.
 
+Comecei a implementação de cores no terminal porém já passei muito do "esperado".
 
 [![GitHub License](https://img.shields.io/github/license/ImTeli/trilha_python_dio_desafio_sistema_bancario)](https://github.com/ImTeli/trilha_python_dio_desafio_sistema_bancario/blob/main/LICENSE)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ImTeli/trilha_python_dio_desafio_sistema_bancario)
